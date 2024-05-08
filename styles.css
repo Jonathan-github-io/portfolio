@@ -1,0 +1,56 @@
+body {
+margin: 0;
+font-size: 1em;
+color: orange;
+}
+* {
+box-sizing:border-box;
+}
+.SCL {
+width: 25%;
+margin: 5px;
+}
+.HPB {
+width: 75%;
+display: block;
+margin: 0 auto;
+}
+.HP {
+width: 100%;
+}
+h2 {
+color: black;
+margin-left:  10px;
+}
+p {
+margin:  5px 10px;
+}
+.edu p {
+margin-top: 16px;
+}
+a:link, a:active, a:visited{
+color: orange;
+}
+.skills p {
+text-align: center;
+}
+.phone {
+width: 45px;
+margin-left: 23px;
+}
+address {
+font-size: 0.7em;
+text-align: center;
+margin-top: 15px;
+}
+.WA {
+width: 65px;
+margin-left: 15px;
+}
+.FB {
+width: 40px;
+margin-left: 28px;
+}
+.cont img {
+display: block;
+}
